@@ -1,11 +1,13 @@
 ## Hi there 👋, I'm ellodev
 ### - 🔭 I’m currently working on
-  - technify ( A site that fetches tech news and displays it )
-  - My personal site
+  - a website where people can upload blog posts (using php)
 ### - 🌱 I’m currently learning
   - javascript
-  - typescript
-  - nextjs
+  - php
+  - sql
+  - C#
+### - 👀 You should check these projects out
+  - [technify](https://technify.app)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
