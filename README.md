@@ -1,11 +1,9 @@
 ## Hi there 👋, I'm ellodev
 ### - 🔭 I’m currently working on
-  - a website where people can upload blog posts (using php)
+  - 
 ### - 🌱 I’m currently learning
-  - javascript
-  - php
-  - sql
-  - C#
+  - java
+  - angular
 ### - 👀 You should check these projects out
   - [technify](https://technify.app)
 
